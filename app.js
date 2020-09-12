@@ -85,7 +85,7 @@ function sumArray(sumArr) { //eslint-disable-line
     return[Sum,`${testArray} was passed in as an array of numbers, and ${Sum} is their sum.`]
 }
 
-// Here is the test for sumArray(); uncomment it to run it
+// Here is the test for .sumArray(); uncomment it to run it
 
  testSumArray(testArray);
 
